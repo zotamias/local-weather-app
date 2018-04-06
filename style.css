@@ -1,0 +1,59 @@
+body{
+  padding-top: 100px;
+  padding-bottom: 25px;
+  background-image:url('https://cdn.magdeleine.co/wp-content/uploads/2016/03/20160315-igor-trepeshchenok-barnimages-02-1400x937.jpg');
+  /* Background image will be used as a placeholder  */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-height: 100vh;
+}
+
+.container{
+  max-width: 450px;
+  height: 100%; 
+  margin: 0 auto;
+  border-radius: 25px;
+  text-align: center;
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.title{
+  font-size: 45px;
+  padding: 10px;
+}
+
+
+#weather{
+ font-size: 20px;
+ 
+}
+
+.temp{
+  font-size:6rem;
+  padding: 15px;
+}
+
+#humidity, #windSpeed{
+  font-size: 25px;
+}
+
+
+h3 {
+  font-size: 25px;
+  padding: 15px;
+}
+
+/* Footer  */
+footer{
+  position: relative;
+  text-align: center;
+  color: #d8042b;
+  padding-top: 55px;
+}
+
+font{
+  font-size: 35px;
+}

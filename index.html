@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- Start of header --> 
+<head>
+<!-- Fonts -->  
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
+ 
+<!-- Style links -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<!-- jQuery -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+
+</head>
+<!-- End of header --> 
+
+<body>
+  
+<div class="container">
+  <h1 class="title">Local Weather App</h1>
+  <h2 id="location"></h2>
+  
+  <!-- start of center -->
+  <div class="center">
+    <img src="" alt="icon" id="icon"> 
+    <div class="degrees">
+      <span id="celsius" class="temp"></span>
+      <span id="fahrenheit" class="temp" style= "display:none;"></span>      
+      <!-- button section-->
+      <div>
+      <button class="btn btn-default" id= "weather">Celsius / Fahrenheit</button>
+      </div> <!-- end of button --> 
+    </div> <!-- end of degrees section-->
+    
+    <!-- Description section -->
+    <h3 id="description"></h3>
+    
+    <span id="humidity"></span>    
+    <br />
+    <span id="windSpeed"></span>
+  
+  </div><!-- end of center -->
+  
+  </div><!-- end of container -->
+
+<script src="script.js"></script>
+  
+</body>
+
+<!-- Footer section-->
+<footer>
+<h5>Written & Coded by <strong><font face="Great Vibes"> Zara Otamias </font></strong> &hearts;</h5> 
+</footer>
+
+</html>
