@@ -55,8 +55,8 @@ $(document).ready(function(){
    
     //using jQuery to show weather results
    $("#location").html(location + ", " + country); 
-   $("#fahrenheit").html(Math.round(fTemp) + "°F");
-   $("#celsius").html(Math.round(cTemp) + "°C");
+   $("#fahrenheit").html(Math.round(fTemp) + "&#176;" + "F");
+   $("#celsius").html(Math.round(cTemp) + "&#176;" + "C");
     
    $("#description").html(description);
    $("#icon").attr("src", icon);
