@@ -1,5 +1,5 @@
 # Local Weather App
-## Tribute page project of Audrey Hepburn for FreeCodeCamp
+## Weather web application project for FreeCodeCamp
 
 Background images: Magdeleine.co & Unsplash.com.
 
