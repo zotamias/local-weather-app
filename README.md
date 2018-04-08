@@ -1,6 +1,10 @@
 # Local Weather App
 ## Weather web application project for FreeCodeCamp
 
+This project was created with HTML, CSS, Bootstrap, JavaScript, & jQuery.
+
+Built using the FreeCodeCamp Weather API.
+
 Background images: Magdeleine.co & Unsplash.com.
 
 https://zotamias.github.io/local-weather-app/
