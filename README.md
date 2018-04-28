@@ -7,6 +7,8 @@ Built using the FreeCodeCamp Weather API.
 
 Background images: Magdeleine.co & Unsplash.com.
 
+### To check out this page live, here are the links:
+
 https://zotamias.github.io/local-weather-app/
 
 https://codepen.io/zotamias/full/qxvrwL/
