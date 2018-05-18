@@ -1,5 +1,5 @@
 # Local Weather App
-## Weather web application project for FreeCodeCamp
+## Weather web application project for Free Code Camp
 
 This project was created with HTML, CSS, Bootstrap, JavaScript, & jQuery.
 
