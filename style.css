@@ -5,7 +5,7 @@ body{
   /* Background image will be used as a placeholder  */
   background-size: cover;
   background-repeat: no-repeat;
-  background-height: 100vh;
+  background-height: 200vh;
 }
 
 .container{
