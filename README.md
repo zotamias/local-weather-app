@@ -5,7 +5,7 @@ This project was created with HTML, CSS, Bootstrap, JavaScript, & jQuery.
 
 Built using the FreeCodeCamp Weather API.
 
-Background images used: Magdeleine (https://magdeleine.co/) & Unsplash.
+Background images used: Magdeleine (https://magdeleine.co/) & Unsplash (https://unsplash.com/).
 
 ### To check out this page live, here are the links:
 
